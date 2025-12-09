@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFD1eM
 - 👀 I’m interested in motocycles and girls :)
-- 📫 How to reach me fd1em@outlook.com
+
 - 😄 Pronouns: Lua, HTML, Javascripts and YOU :D
 
 <!---
